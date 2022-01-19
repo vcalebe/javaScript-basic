@@ -1,3 +1,5 @@
+//Factory Function recebe os parametros e apos isso cria um objeto com else, o retornando
+
 function criarCelular(marca,tamanhoTela,bateria,memoria){
     return {
         marca:marca,
